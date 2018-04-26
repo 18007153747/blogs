@@ -1,0 +1,36 @@
+[33mcommit 9e2660289e63c30755c3a0be1735fe5104982d06[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: shenhengxin <shenhengxin@qq.com>
+Date:   Wed Apr 25 17:54:20 2018 +0800
+
+    Finish use auth
+
+[33mcommit 0ae288593612445fe26f186659c9b3481a204890[m
+Author: shenhengxin <shenhengxin@qq.com>
+Date:   Wed Apr 25 15:27:58 2018 +0800
+
+    Finish
+
+[33mcommit 9f84dbdf4046567db8e6e49124ef66537fc00ff8[m
+Author: vagrant <vagrant@homestead>
+Date:   Tue Apr 24 10:43:49 2018 +0000
+
+    Finish basic page layout
+
+[33mcommit 4cd73a49acd5cc1c183cc199cb98f0e2d31e03e8[m
+Merge: 45c688e cb9d79b
+Author: vagrant <vagrant@homestead>
+Date:   Tue Apr 24 09:55:52 2018 +0000
+
+    Merge branch 'master' of github.com:18007153747/blogs
+
+[33mcommit 45c688edea1d91431fdefc2484fe820d9c7b1045[m
+Author: vagrant <vagrant@homestead>
+Date:   Tue Apr 24 09:55:19 2018 +0000
+
+    first commit
+
+[33mcommit cb9d79b74485c53798c810f31d277d88ce7373d0[m
+Author: vagrant <vagrant@homestead>
+Date:   Tue Apr 24 09:52:59 2018 +0000
+
+    first commit
